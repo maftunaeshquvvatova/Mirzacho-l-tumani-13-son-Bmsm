@@ -1,0 +1,49 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+header{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+header .container{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-top: 100px;
+   
+}
+header h1{
+    color: blue;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+header h2{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+header p{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+header .div{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+}
+header .a{
+    width: 450px;
+    text-align: justify;
+}
+header .b{
+    width: 450px;
+}
+header h4{
+     font-size: 20px;
+     text-align: center;
+     color: blue;
+
+}
